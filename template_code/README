@@ -1,0 +1,20 @@
+=================
+template.py
+=================
+
+Generating the attributes of a template object:
+    - vertices.txt
+    - vertices_norm.txt
+    - edges.txt
+    - faces.txt
+    - scale_vector.txt
+    - face_filling.txt
+    - face_filling_norm.txt
+
+Requirements:
+    - Address of the template data: data/objects/<objectName>
+    - One folder for each object template
+    - The size of the physical image (cm)
+
+Execute:
+    python main_template.py --object <objectName> --path <objectAddress>
