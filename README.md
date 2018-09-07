@@ -1,2 +1,2 @@
 # cnn4sft
-Thesis for MSCV Code
+Thesis for MSCV (Masters of Computer Vision) Code
